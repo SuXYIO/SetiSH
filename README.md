@@ -1,4 +1,4 @@
-# SetISH (SETI)
+# SetISH
 #### Description
 
 A quick setup for iSH on iOS AppStore. (Non-official)
@@ -10,7 +10,7 @@ Bash Shell Script
 
 #### Installation
 
-1.  Download SETIv0.0.0 (file name depends on the version) to iSH system directory
+1.  Download SetiSHv0.0.0 (file name depends on the version) to iSH system directory
 
 #### Instructions
 
