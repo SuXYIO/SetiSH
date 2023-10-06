@@ -1,4 +1,4 @@
-# SetISH
+# SetiSH
 #### Description
 
 A quick setup for iSH on iOS AppStore. (Non-official)
